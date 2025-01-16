@@ -1,4 +1,4 @@
-# Título do Projeto: Desafio Criando um Ebook;)
+# Desafio Criando um Ebook
 
 ## 📒 Descrição
 Criei um Ebook sobre Auditoria Interna, minha área de atuação profissional.

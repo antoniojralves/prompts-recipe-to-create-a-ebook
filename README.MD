@@ -15,7 +15,7 @@ Para criação do conteúdo do Ebook utilizei o seguinte prompt “faça um text
 
 Para criação da arte de capa utilizai o seguinte prompt “criar uma imagem para fins corporativos em tamanho A3 sobre auditoria interna”
 
-Reuni todo o conteúdo listado anteriormente e fiz a diagramação no PowerPoint em tamanho A3, e finalizando salvando em formato PDF.
+Reuni todo o conteúdo listado anteriormente e fiz a diagramação no PowerPoint em tamanho A3, e finalizei salvando em formato PDF.
 
 ## 🚀 Resultados
 Ebook denominado “Auditoria Interna: Dominando as Técnicas Essenciais”.
